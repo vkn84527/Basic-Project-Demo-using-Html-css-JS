@@ -1,0 +1,5 @@
+const {add,sub,mul,name}= require('./oper')
+console.log(name)
+console.log(add(5,5))
+console.log(sub(25,5))
+console.log(mul(10,50))
